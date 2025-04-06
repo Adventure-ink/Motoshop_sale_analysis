@@ -86,7 +86,7 @@ Retention strategy and personalized engagement should be focused here.
 
 **By Quantity Sold:**
 
-![Screenshot 2025-04-06 221216](https://github.com/user-attachments/assets/a0c109d9-685d-4cd7-adfc-f7bb19e60a3b)
+![Screenshot 2025-04-06 222443](https://github.com/user-attachments/assets/aa2ef1be-77a1-4960-af12-fa101d3d20b0)
 
 
 |    Product Name      | Units Sold |
@@ -97,8 +97,7 @@ Retention strategy and personalized engagement should be focused here.
 
 **By Revenue:**
 
-![Screenshot 2025-04-06 221240](https://github.com/user-attachments/assets/f9e9fa29-5bac-43ea-9847-5f7648563452)
-
+![Screenshot 2025-04-06 222449](https://github.com/user-attachments/assets/2b25deb9-1f34-44a6-9cd2-33c084cfc358)
 
 |      Product Name       | Revenue ($)  |
 |-------------------------|--------------|
