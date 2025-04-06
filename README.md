@@ -1,5 +1,9 @@
 # 📊 Motoshop Sales Analysis Report
 
+> 📂 **Note:** All SQL queries used in this analysis are organized in the `scripts/` folder for easy access and further exploration.
+
+---
+
 **Dataset Source:** `customers.csv`, `products.csv`, `sales.csv`  
 **Author:** Shivam Rana  
 **Date:** April 2025
