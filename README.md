@@ -152,4 +152,7 @@ Identify and tap into regions with growing demand.
 - 🛍️ Promote **bestselling products** during sales campaigns.
 
 ---
+## 📜 License
 
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute for educational and professional purposes.
